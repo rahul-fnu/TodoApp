@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083114698637",
+    "project_id": "todoapp-a581f",
+    "storage_bucket": "todoapp-a581f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083114698637:android:b9a98695037ee8c98dafc4",
+        "android_client_info": {
+          "package_name": "com.rahul.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083114698637-6f4ragrkvhqbhct9fnnuner32an3rl2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.todo",
+            "certificate_hash": "3354cf4ddae9d77fec0590be4f14a5a3efaaa836"
+          }
+        },
+        {
+          "client_id": "1083114698637-0raqutro6t961kaa6iu3na8uhndpd540.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjZA6xqqhu2AqfNMSr70AN5gV55nzKOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083114698637-0raqutro6t961kaa6iu3na8uhndpd540.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
