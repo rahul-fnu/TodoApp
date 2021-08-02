@@ -6,7 +6,7 @@ from datetime import date
 
 
  
-CLIENT_SECRET_FILE = "C:\\Users\\hp\\Desktop\\Flutter\\Backend\\client_secret_file.json"
+CLIENT_SECRET_FILE = "client_secret_file.json"
 API_NAME = 'tasks'
 API_VERSION = 'v1'
 SCOPES = ['https://www.googleapis.com/auth/tasks']
